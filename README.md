@@ -27,13 +27,13 @@
 <!-- <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="250" height="250"> -->
 
  
-### 👋 Hello there, I’m Pilton Swrang
+### 👋 Hello there, I’m Amar Chetry
 
 ##### 👀 I’m interested in Web developement
 ##### 🌱 I’m currently learning DSA
 ##### 💞️ I’m looking to collaborate on a ReactJS project
 ##### 👨‍🦰 I like exploring new places and cooking
-##### 📫 How to reach me swrangpilton@gmail.com
+##### 📫 How to reach me amarchetri952@gmail.com
 
 --- 
 ### :hammer_and_wrench: Languages and Tools :
